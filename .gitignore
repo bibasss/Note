@@ -1,0 +1,13 @@
+/node_modules
+.Ds_Store
+.env
+/build
+/dist
+/logs
+*.log
+/coverage
+.idea
+.vscode
+*txt
+/tests
+test.ts
